@@ -77,7 +77,7 @@ make demo
 
 ./smart_parking_demo
 
-## 🎬 Démonstration## 🎥 Démonstration Vidéo (Full Walkthrough)
+# 🎬 Démonstration## 🎥 Démonstration Vidéo (Full Walkthrough)
 La démonstration complète dure **3 min 19s**. Elle couvre l'intégralité du cycle de vie du stationnement et de la recharge.
 
 ### ⏱️ Chapitres de la vidéo :
