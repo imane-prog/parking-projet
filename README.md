@@ -77,7 +77,14 @@ make demo
 
 ./smart_parking_demo
 
-## 🎬 Démonstration
+## 🎬 Démonstration## 🎥 Démonstration Vidéo (Full Walkthrough)
+La démonstration complète dure **3 min 19s**. Elle couvre l'intégralité du cycle de vie du stationnement et de la recharge.
+
+### ⏱️ Chapitres de la vidéo :
+* **0:00 - 1:00 :** Initialisation du système et présentation de l'interface Raylib.
+* **1:00 - 2:00 :** Navigation des véhicules thermiques (ICE) et tarification.
+* **2:00 - 3:19 :** Gestion des véhicules électriques (EV), recharge sur les spots 4-6 et conclusion.
+
 
 [Cliquez ici pour voir la vidéo de démonstration]
 
