@@ -1,0 +1,55 @@
+{
+    "game_settings": {
+        "screen_width": 800,
+        "screen_height": 600,
+        "car_size": 40.0,
+        "charge_rate": 0.5,
+        "move_speed": 2.0,
+        "rotation_speed": 3.5
+    },
+    "parking_zones": [
+        {
+            "label": "PARKING 1",
+            "x": 100, "y": 80, "width": 200, "height": 200,
+            "total_slots": 6,
+            "cost_per_hour": 1.50
+        },
+        {
+            "label": "EV STATION",
+            "x": 280, "y": 420, "width": 300, "height": 150,
+            "total_spots": 3,
+            "cost_per_kwh": 0.45,
+            "spot_indices": [4, 5, 6]
+        }
+    ],
+    "cars": [
+        {
+            "id": 0,
+            "type": "ELECTRIC",
+            "position": [50, 480],
+            "initial_energy": 50.0,
+            "tint_rgb": [50, 205, 50]
+        },
+        {
+            "id": 1,
+            "type": "GASOLINE",
+            "position": [500, 40],
+            "initial_energy": 25.0,
+            "tint_rgb": [255, 165, 0]
+        },
+        {
+            "id": 2,
+            "type": "ELECTRIC",
+            "position": [350, 250],
+            "initial_energy": 95.0,
+            "tint_rgb": [135, 206, 235]
+        },
+        {
+            "id": 3,
+            "type": "GASOLINE",
+            "position": [300, 380],
+            "initial_energy": 5.0,
+            "tint_rgb": [255, 0, 0]
+        }
+    ]
+}
