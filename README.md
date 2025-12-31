@@ -5,8 +5,8 @@
 ---
 
 ## 👥 Membres du Groupe
-* **Imane Rhanebou** 
- **Mohamed Zarki**
+* **Imane Rhanebou**
+* **Mohamed Zarki**
 * **Abdallaoui Alaoui Mohamed**
 
 ---
