@@ -59,6 +59,18 @@ Le projet repose sur une stack technologique optimisée pour la performance et l
 
 * **C++ :** Langage de programmation principal, utilisé pour implémenter la logique métier complexe, la gestion de la mémoire et les principes de la POO (Héritage, Encapsulation, Polymorphisme).
 * **Raylib :** Bibliothèque graphique 2D utilisée pour le rendu du jeu, la gestion des entrées utilisateur (clavier/souris) et la gestion fluide des animations de véhicules.
+# 🎬 Démonstration## 🎥 Démonstration Vidéo (Full Walkthrough)
+La démonstration complète dure **3 min 19s**. Elle couvre l'intégralité du cycle de vie du stationnement et de la recharge.
+
+### ⏱️ Chapitres de la vidéo :
+* **0:00 - 1:00 :** Initialisation du système et présentation de l'interface Raylib.
+* **1:00 - 2:00 :** Navigation des véhicules thermiques (ICE) et tarification.
+* **2:00 - 3:19 :** Gestion des véhicules électriques (EV), recharge sur les spots 4-6 et conclusion.
+
+
+[Cliquez ici pour voir la vidéo de démonstration]
+
+https://drive.google.com/file/d/1qqBNDfhHjkhifUghRueCtFLiz-fj55cg/view?usp=sharing
 
 ---
 
@@ -77,18 +89,6 @@ make demo
 
 ./smart_parking_demo
 
-# 🎬 Démonstration## 🎥 Démonstration Vidéo (Full Walkthrough)
-La démonstration complète dure **3 min 19s**. Elle couvre l'intégralité du cycle de vie du stationnement et de la recharge.
-
-### ⏱️ Chapitres de la vidéo :
-* **0:00 - 1:00 :** Initialisation du système et présentation de l'interface Raylib.
-* **1:00 - 2:00 :** Navigation des véhicules thermiques (ICE) et tarification.
-* **2:00 - 3:19 :** Gestion des véhicules électriques (EV), recharge sur les spots 4-6 et conclusion.
-
-
-[Cliquez ici pour voir la vidéo de démonstration]
-
-https://drive.google.com/file/d/1qqBNDfhHjkhifUghRueCtFLiz-fj55cg/view?usp=sharing
 
 
 
