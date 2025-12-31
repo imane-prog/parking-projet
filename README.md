@@ -19,7 +19,7 @@ Le projet repose sur une architecture robuste respectant les principes de la **P
 * **Héritage :** Utilisation d'une classe `Vehicle` pour les propriétés de base, avec des spécialisations `ICEVehicle` et `EVVehicle`.
 * **Polymorphisme :** Gestion différenciée des comportements de recharge et de facturation.
 * **Encapsulation :** Protection des données liées aux transactions et aux états des places de stationnement.
- ##**Parking Fury**
+* **Parking Fury**
 Parking Fury est une simulation interactive de conduite et de stationnement développée en C++ avec Raylib. Le jeu place l'utilisateur aux commandes d'une flotte de véhicules dans un environnement urbain dense où la précision et la gestion stratégique sont de mise.
 
 Contrairement aux jeux de parking classiques, cette version "Smart" intègre des mécaniques de gestion réelle :
