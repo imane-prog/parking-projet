@@ -54,6 +54,11 @@ Situés en haut et à gauche de l'écran :
 * **Icône Flèche Retour :** Réinitialiser la position des véhicules ou revenir au menu principal.
 * **Icône Pause (||) :** Mettre la simulation en pause pour analyser l'occupation des parkings.
 * **Boutons Tactiles (Violet/Vert/Rouge/Bleu) :** Une réplique des contrôles directionnels est disponible à l'écran pour une utilisation à la souris.
+*  ## 🛠 Technologies Used
+Le projet repose sur une stack technologique optimisée pour la performance et le rendu en temps réel :
+
+* **C++ :** Langage de programmation principal, utilisé pour implémenter la logique métier complexe, la gestion de la mémoire et les principes de la POO (Héritage, Encapsulation, Polymorphisme).
+* **Raylib :** Bibliothèque graphique 2D utilisée pour le rendu du jeu, la gestion des entrées utilisateur (clavier/souris) et la gestion fluide des animations de véhicules.
 
 ---
 
