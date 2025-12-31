@@ -81,6 +81,9 @@ La démonstration complète dure **3 min 19s**. Elle couvre l'intégralité du c
 [Cliquez ici pour voir la vidéo de démonstration]
 
 https://drive.google.com/file/d/1qqBNDfhHjkhifUghRueCtFLiz-fj55cg/view?usp=sharing
+## 📄 Rapport du Projet
+Le rapport détaillé (conception, diagrammes et choix techniques) est disponible ici :
+👉 [**Télécharger le Rapport PDF (947 KB)**]https://github.com/imane-prog/parking-projet/blob/main/rapport%20parking%20projet.pdf 
 
 
 ---
