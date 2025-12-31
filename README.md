@@ -101,6 +101,9 @@ make demo
 ./smart_parking_demo
 
 
+### ⚖️ License
+Ce projet est sous licence **MIT**. Vous pouvez consulter le fichier [LICENSE](LICENSE) pour plus de détails sur les droits d'utilisation et de reproduction.
+
 
 
 
